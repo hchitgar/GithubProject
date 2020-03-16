@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
 
         System.out.println("Hello github from intelliJ IDEA");
+        System.out.println("Hello github from intelliJ IDEA from my_branch");
     }
 }
